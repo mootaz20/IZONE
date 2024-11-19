@@ -4,14 +4,14 @@ import CardsComp from "./CardsComp"
 const data = [
     {
         id : 1,
-        img : './../../public/1000_F_328878503_ZDLzKNAkiEfiRwEwgvgI6tmx55ql919Z.jpg',
+        img : '/1000_F_328878503_ZDLzKNAkiEfiRwEwgvgI6tmx55ql919Z.jpg',
         name : 'Workshop 1',
         date : '2022-01-01',
         desc : 'Workshop 1 description',
     },
     {
         id : 2,
-        img : './../../public/how-to-organise-training-workshop-for-your-team.jpg',
+        img : '/how-to-organise-training-workshop-for-your-team.jpg',
         name : 'Workshop 2',
         date : '2022-01-01',
         desc : 'Workshop 2 description',
