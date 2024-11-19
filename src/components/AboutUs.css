@@ -1,0 +1,16 @@
+.backGround{
+    background-color: #F5F5F5 !important;
+}
+.btn-primary{
+    background-color: #57BAE7 !important;
+    color: black;
+    font-weight: 500;
+    border: none !important;
+    height: 40px;
+    width: 117px;
+    border-radius: 2px !important;
+}
+.fs-55{
+    font-size: 16px !important;
+    font-weight: 450;
+}
